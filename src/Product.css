@@ -1,0 +1,10 @@
+.Product{
+    border: 2px solid black;
+    margin: 3px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
